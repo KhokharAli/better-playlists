@@ -1,3 +1,6 @@
+html, body {
+  background-color: gray;
+}
 .App {
   text-align: center;
 }
@@ -29,9 +32,4 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
-}
-
-h1 {
-  font-size: 54px;
-  color: #222;
 }
